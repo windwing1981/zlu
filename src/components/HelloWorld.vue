@@ -46,17 +46,17 @@ export default {
       dialogVisible: false,
       tableData: [{
             date: '2016-05-02',
-            name: '王小虎',
+            name: '王小虎123',
             isOK: true,
             address: '上海市普陀区金沙江路 1518 弄'
           }, {
             date: '2016-05-04',
-            name: '王小虎',
+            name: '王小虎456',
             isOK: true,
             address: '上海市普陀区金沙江路 1517 弄'
           }, {
             date: '2016-05-01',
-            name: '王小虎',
+            name: '王小虎789',
             isOK: true,
             address: '上海市普陀区金沙江路 1519 弄'
           }, {

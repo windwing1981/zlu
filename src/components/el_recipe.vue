@@ -75,7 +75,6 @@ export default {
         getData: function (val) {
         let index = val.index
         this.items[index] = val.data
-        console.log('I got the data:', JSON.stringify(this.items))
         }
 
     }
