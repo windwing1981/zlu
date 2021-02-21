@@ -47,7 +47,7 @@ export default {
     methods:{
         // tosub(){this.data.subdialogstate=this.dialogstate},
         handleClose(done) {
-            this.$confirm('确认关闭？')
+            this.$confirm('确认关闭    ？')
             .then(_ => {
             done();
             this.$emit('closed');
